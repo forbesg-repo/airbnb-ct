@@ -76,6 +76,8 @@ Also, there is a Boat & Cave listing in Cape Town that was found!
 
 To get a local copy up and running follow these simple example steps.
 * Go fetch the listings and reviews datasets (for the city of your choice) from [insideairbnb](http://insideairbnb.com/get-the-data.html)
+* [Cape Town Reviews Data](http://data.insideairbnb.com/south-africa/wc/cape-town/2020-04-26/visualisations/reviews.csv)
+* [Cape Town Listings Data] (http://data.insideairbnb.com/south-africa/wc/cape-town/2020-04-26/visualisations/listings.csv)
 * Download the jupyter notebook from this repository, connect up the datasets loading cell to wherever you host your data ( I hosted mine on a s3 bucket in amazon)
 * [Notebook Link](https://github.com/forbesg-repo/airbnb-ct/blob/master/airbnb-ct.ipynb)
 * Run through the notebook and have fun!
